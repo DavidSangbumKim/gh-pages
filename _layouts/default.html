@@ -3,6 +3,8 @@
     {% include head.html %}
   <body>
     {% include header.html %}
+{% capture markdown-basics %}{% include markdown-basics.md %}{% endcapture %}
+{{ markdown-basics | markdownify }}
     {{ content }}
     {% include footer.html %}
   </body>
