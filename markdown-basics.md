@@ -1,3 +1,8 @@
+---
+layout: default
+title: Markdown Basics
+permalink: markdown-basics/
+---
 Markdown: Basics
 ================
 
