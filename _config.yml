@@ -1,3 +1,4 @@
 markdown: kramdown
 highlighter: pygments
-relative_permalinks: true
+baseurl: /gh-pages
+relative_permalinks: false
