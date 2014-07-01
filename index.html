@@ -2,4 +2,5 @@
 layout: default
 ---
 
-<a href="markdown-basics.md">Markdown: Basics</a>
+{% capture markdown-basics %}{% include markdown-basics.md %}{% endcapture %}
+{{ markdown-basics | markdownify }}
