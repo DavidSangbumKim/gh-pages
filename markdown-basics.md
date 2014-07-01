@@ -3,7 +3,6 @@ layout: default
 title: Markdown Basics
 permalink: markdown-basics/
 ---
-<div>
 Markdown: Basics
 ================
 
@@ -302,4 +301,3 @@ Output:
         &lt;p&gt;For example.&lt;/p&gt;
     &lt;/blockquote&gt;
     </code></pre>
-</div>
