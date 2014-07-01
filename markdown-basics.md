@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown: Basics
+title: Markdown Basics
 permalink: /markdown-basics
 ---
 
